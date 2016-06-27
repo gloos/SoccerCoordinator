@@ -63,11 +63,11 @@ func printLetters() {
     }
     
     for (key, value) in dragons {
-        print("Hello \(value[2]), your son \(key) is playing his first game with the Sharks team! You should attend on \(dragonsGame)")
+        print("Hello \(value[2]), your son \(key) is playing his first game with the Dragons team! You should attend on \(dragonsGame)")
     }
     
     for (key, value) in raptors {
-        print("Hello \(value[2]), your son \(key) is playing his first game with the Sharks team! You should attend on \(raptorsGame)")
+        print("Hello \(value[2]), your son \(key) is playing his first game with the Raptors team! You should attend on \(raptorsGame)")
     }
 }
 
